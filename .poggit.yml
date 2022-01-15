@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Breadlord303273/PurePerms
+build-by-default: true
+branches:
+- main
+projects:
+  PurePerms.PurePerms-main.PurePerms:
+    path: PurePerms/PurePerms-main/PurePerms/
+...
